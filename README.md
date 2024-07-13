@@ -1,6 +1,15 @@
 # FIREWALL-USING-IMAGE-PROCESSING-FACE-RECOGNITION-AND-LIVENESS-FACTOR-ALGORITHMS
 Goruntu ısleme , yuz tanıma ve canlılık faktoru algorıtmaları kullanarak guvenlık duvarı yazılım projesıdır.  
 
+******* NOT :: ÖNEMLİ :: ********
+PROJE DOSYALARINI KULLANIRKEN MANTIĞINI ANLAMIZI VE NEYİ NEREDE KULLADIĞIMI ANLAMANIZI ÖNERİRİÖ.
+ARDINDA PROJE DOSYALARINI KULLANIRKEN AÇACAĞINIZ 1 DOSYA İÇERİSİNDE TÜM KULLANILAN FOTOĞRAFLAR VE 
+PROGRAM DOSYALARINI TOPLU HALDE BULUNDURUNUZ. AKSİ TAKDİRDE PROGRAM ÇALIŞMAYACAKTIR. VE BUNA EK OLARAK
+KULLANILAN KUTUPHANELERİN DE GUNCEL OLUP OLMAMASINA DİKKAT EDİNİZ. README KISMINDA BELİRTİLEN FOTOĞRAFLAR 
+VE GÖRSELLER VARDIR. BU GÖRSELLERE VE README KISMINA DETAYLI ERİSİM İSTERSENİZ İLETİSİME GECEBİLİRSİNİZ.
+******* NOT :: ÖNEMLİ :: *******
+
+
 Görüntü işleme ve Yüz tanıma algoritmaları kullanarak güvenlik sistemi tasarımında günümüzde 
 telefon, tablet, güvenlik kameraları mantığı kullanılarak ve güncellenerek oluşturulan bir projedir. 
 Bu proje tanımlanan -izin verilen- kişilerin girişine izin verilecek şekilde yapılacaktır. Proje 
